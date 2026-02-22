@@ -1,0 +1,21 @@
+# Unity Build Outputs
+**/Build/*.data
+**/Build/*.wasm
+**/Build/*.js
+**/Build/*.framework.js
+**/Build/*.loader.js
+
+# Unity general
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS files
+.DS_Store
+Thumbs.db
