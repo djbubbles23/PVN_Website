@@ -1,5 +1,5 @@
 body {
-    background-image: url('/images/AdobeStock_451448262.jpeg');
+    background-image: url('images/AdobeStock_451448262.jpeg');
     background-repeat: repeat;
     background-size: cover;
     animation: scrollBackground 20s linear infinite;
@@ -26,7 +26,7 @@ a, a:link, a:visited, a:hover, a:active {
 
 .enlarge-text:hover {
   transform: scale(1.5);
-}    
+}
 
 .col{
     background-color: rgba(0, 0, 0, 0.5);
