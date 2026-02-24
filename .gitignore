@@ -1,3 +1,10 @@
+# Unity Build Outputs
+# **/Build/*.data
+# **/Build/*.wasm
+# **/Build/*.js
+# **/Build/*.framework.js
+# **/Build/*.loader.js
+
 # Unity general
 [Ll]ibrary/
 [Tt]emp/
